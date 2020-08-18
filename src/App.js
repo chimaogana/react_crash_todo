@@ -3,7 +3,6 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 import Todos from "./components/Todos";
 import AddTodo from "./components/AddTodo";
 import Header from "./components/layouts/Header";
-import { v4 as uuidv4 } from "uuid";
 import About from "./components/pages/About";
 
 import "./App.css";
